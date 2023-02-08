@@ -1,5 +1,7 @@
 # SeabornTutorial
 ---
+## 스터디 🐈‍⬛ 깜냥깜냥 🐈‍⬛
+
 ## 📚공부 자료
 https://seaborn.pydata.org/examples/index.html
 
