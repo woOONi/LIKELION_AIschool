@@ -1,4 +1,4 @@
-# 👩‍💻MINI PROJECT
+# 👩‍💻MINI PROJECT 1 
 ### 👯 팀명 : "HELLO WORLD"
 팀원 : 정희정, 김지원, 박민정, 박현호, 정의균, 정혜원
 
