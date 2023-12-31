@@ -18,4 +18,11 @@
 5. folium 으로 시각화
 
 #### 4. 결과
-- 데이터 불러오기
+- 요일별 승객수 시각화
+![Untitled](https://github.com/woOONi/LIKELION_AIschool/assets/91862274/3c054424-93e9-4929-a100-ee8d0b3b0cb1)
+
+- 요일별 시간별승객수 시각화
+![Untitled (1)](https://github.com/woOONi/LIKELION_AIschool/assets/91862274/e1bfd0aa-558f-4c3c-aced-89f17a862777)
+
+- folium 으로 하차정류장 밀집화 확인
+![Untitled (3)](https://github.com/woOONi/LIKELION_AIschool/assets/91862274/56b2e1d4-1c86-437d-bbd6-4cf8fc59a718)
